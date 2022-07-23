@@ -1,5 +1,5 @@
 # s21browserStorage_login
-login & logout
+login & logout con JQuery
 
 
 // si yo no estoy logueado deberia ver el formulario de login
